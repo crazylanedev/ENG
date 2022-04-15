@@ -1,0 +1,13 @@
+Hello and welcome to ENG. Please listen closely on this tutorial to learn how to code in ENG in very few steps.
+basics:
+
+
+;KNOWLEDGE FOR TODAY!!!!; PRESS SPACE TO TYPE A LINE OF CODE
+
+
+Firstly, to draw a sprite on the screen type "display square" but change square to the object you want to display. This can be used to display lines or circles,squares, or even geometry.
+
+
+we  can also set sprites to get draggable, by typing "set square to draggable".
+
+I will be adding further options to cuztomize sprites.
